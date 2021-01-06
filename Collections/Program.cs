@@ -12,6 +12,8 @@ namespace Collections
             Console.WriteLine("Hello World!");
 
             ArrayList al = new ArrayList(5);
+             Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.BackgroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine(" The Capacity of ArrayList is " + al.Capacity);
             al.Add(100);
             al.Add("Ganesh");
