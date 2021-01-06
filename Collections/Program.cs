@@ -28,13 +28,13 @@ namespace Collections
             al.RemoveAt(0);
             Console.WriteLine(" The Capacity of ArrayList after Decreasing is " + al.Capacity);
             al.Add(100);
-            al.Add(Ganesh");
+            al.Add('Ganesh");
             al.Add(53.5);
             al.Add('B');
             al.Add(52.354);
             al.Add(52);
             Console.WriteLine(" The Capacity of ArrayList after Increasing next 10 is " + al.Capacity);
-            Console.Read();
+            Console.ReadLine();
              
 
         }
