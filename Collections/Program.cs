@@ -6,8 +6,11 @@ namespace Collections
     class Program
     {
         
-        
+        [Test]
+        public void Addeds()
+        {
             Console.WriteLine("Hello World!");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
