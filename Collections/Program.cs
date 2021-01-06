@@ -35,7 +35,7 @@ namespace Collections
             al.Add(52);
             Console.WriteLine(" The Capacity of ArrayList after Increasing next 10 is " + al.Capacity);
             Console.Read();
-
+             
 
         }
     }
