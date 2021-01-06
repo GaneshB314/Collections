@@ -13,6 +13,8 @@ namespace Collections
         }
         static void Main(string[] args)
         {
+            Program ps=new Program();
+            ps.Addeds();
             Console.WriteLine("Hello World!");
 
             ArrayList al = new ArrayList(5);
